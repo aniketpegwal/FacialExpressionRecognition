@@ -1,6 +1,5 @@
 # FacialEmotionRecognition
-
-Computer Vision Project: This repository contains code for a facial emotion recognition system based on the FER2018 dataset from Kaggle. The FER2018 dataset consists of 35,887 grayscale images of faces, each labeled with one of seven emotions: anger, disgust, fear, happiness, sadness, surprise, or neutral.
+My Hobby Project: This repository contains code for a facial emotion recognition system based on the FER2018 dataset from Kaggle. The FER2018 dataset consists of 35,887 grayscale images of faces, each labeled with one of seven emotions: anger, disgust, fear, happiness, sadness, surprise, or neutral.
 
 ## Contents
 <!-- list -->
